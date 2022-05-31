@@ -7,11 +7,7 @@ const intialState = {
       title: "Dipesh",
       category: "programmer",
     },
-    {
-      id: 2,
-      title: "Preeti",
-      category: "Intern",
-    },
+    
   ],
 };
 
